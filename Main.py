@@ -1,2 +1,2 @@
-print("ahlan")
+print("ahlan1")
 print("12")
